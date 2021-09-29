@@ -3,10 +3,15 @@
         {
             "itemtype": "skin",
             "name": "Dream To Red Dream",
-            "icon": "https://cdn.discordapp.com/attachments/884899604938776647/892793886337024010/Filme__TV_21.09.2021_19_50_49.png",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/smallicon.png",
             "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_395_athena_commando_f_shatterfly/smallicon.png",
             "pak": "https://cdn.discordapp.com/attachments/884899604938776647/892794316177674291/pakchunk758-WindowsClient.pak",
             "paknumber": "758"
+        },
+        {
+            "itemtype": "skin",
+            "name": ""
         }
-                ]
+
+        ]
 }
