@@ -7,6 +7,14 @@
             "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_395_athena_commando_f_shatterfly/smallicon.png",
             "pak": "https://cdn.discordapp.com/attachments/884899604938776647/892794316177674291/pakchunk758-WindowsClient.pak",
             "paknumber": "758"
+        },
+        {
+            "itemtype": "background",
+            "name": "Season 14 Background To Cloud Background",
+            "icon": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/smallicon.png",
+            "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_395_athena_commando_f_shatterfly/smallicon.png",
+            "pak": "https://cdn.discordapp.com/attachments/884899604938776647/890301332802633738/pakchunk989-WindowsClient.pak",
+            "paknumber": "989"
         }
         ]
 }
