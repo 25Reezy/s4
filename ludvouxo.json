@@ -1,11 +1,6 @@
 {
-
-    "skin": "skin",
-    "name": "Wonder To Green Wonder",
-    "icon": "https://cdn.discordapp.com/attachments/837338613556838490/839881674526294026/wondergreen.png",
-    "swapicon": "https://fortnite-api.com/images/cosmetics/br/cid_434_athena_commando_f_stealthhonor/smallicon.png",
-    "pak": "https://cdn.discordapp.com/attachments/824664917033353287/824665004224938042/pakchunk189-WindowsClient.pak",
-    "paknumber": "189"
-
-    
+    "Cosmetics": [
+        { },
+        { }
+        ]
 }
